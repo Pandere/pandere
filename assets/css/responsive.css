@@ -116,7 +116,7 @@
   body .navbar-header .navbar-toggler {
     font-size: 22px;
     line-height: 1;
-    color: #685F98;
+    color: #F29629;
     padding: 0;
   }
   body .navbar-header .navbar-toggler span {
@@ -132,7 +132,7 @@
     padding: 0.5rem 1rem;
   }
   body .navbar-header .sticky .navbar-toggler {
-    color: #685F98;
+    color: #F29629;
   }
   body .navbar-header .navbar-collapse {
     background-color: #ffffff;
@@ -330,7 +330,7 @@
     color: #1B1344 !important;
   }
   body .header-page.sticky .navbar-toggler {
-    color: #685F98 !important;
+    color: #F29629 !important;
   }
   body .navbar-collapse {
     position: relative;
@@ -390,7 +390,7 @@
     top: 0 !important;
   }
   body .header-page .sticky .navbar-toggler {
-    color: #685F98;
+    color: #F29629;
   }
   body .blog-single-post .row {
     margin-left: 0;
@@ -449,7 +449,7 @@
   }
 
   .navbar-header .sticky .navbar-toggler {
-    color: #685F98;
+    color: #F29629;
     top: 20px;
     right: 30px;
   }

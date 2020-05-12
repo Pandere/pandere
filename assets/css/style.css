@@ -22526,7 +22526,7 @@ body .row-centered .col-centered {
   text-align: center;
 }
 body .bg-1 {
-  background-color: #685F98;
+  background-color: #F29629;
 }
 body .mg-bt-0 {
   margin-bottom: 0 !important;
@@ -22635,7 +22635,7 @@ body .color-white {
   color: #ffffff !important;
 }
 body .color-1 {
-  color: #685F98;
+  color: #F29629;
 }
 body .color-2 {
   color: #1B1344;
@@ -22648,7 +22648,7 @@ body .color-4 {
 }
 body .btn-white {
   background-color: #ffffff;
-  color: #685F98;
+  color: #F29629;
   border: 2px solid #ffffff;
   padding: 10px 35px;
   border-radius: 23px;
@@ -22670,13 +22670,13 @@ body .btn-orange:hover {
 }
 body .btn-border {
   background-color: transparent;
-  border: 1px solid #685F98;
-  color: #685F98;
+  border: 1px solid #F29629;
+  color: #F29629;
   padding: 10px 35px;
   border-radius: 23px;
 }
 body .btn-border:hover {
-  background-color: #685F98;
+  background-color: #F29629;
   color: #ffffff;
 }
 body #loading-page {
@@ -22686,7 +22686,7 @@ body #loading-page {
   width: 100%;
   height: 100%;
   z-index: 9999999;
-  background-color: #685F98;
+  background-color: #F29629;
 }
 body #loading-page #loading-center-page {
   width: 100%;
@@ -22776,7 +22776,7 @@ body #loading-page #loading-center-page #loading-center-absolute .loader .ball-p
 body .navbar-header .navbar-expand-lg .navbar-brand {
   font-size: 24px;
   font-weight: 600;
-  color: #685F98;
+  color: #F29629;
 }
 body .navbar-header .navbar-expand-lg .navbar-nav {
   margin-left: 100px;
@@ -22796,17 +22796,17 @@ body .navbar-header .navbar-expand-lg .navbar-nav li a:after {
   height: 2px;
   top: -10px;
   position: relative;
-  background: #685F98;
+  background: #F29629;
   transition: width 0.3s;
 }
 body .navbar-header .navbar-expand-lg .navbar-nav li a:hover {
-  color: #685F98;
+  color: #F29629;
 }
 body .navbar-header .navbar-expand-lg .navbar-nav li a:hover:after {
   width: 100%;
 }
 body .navbar-header .navbar-expand-lg .navbar-nav li.active a {
-  color: #685F98;
+  color: #F29629;
 }
 body .navbar-header .sticky {
   background-color: #ffffff;
@@ -22825,10 +22825,10 @@ body .navbar-header .sticky .hamburger.is-opened-navi {
 body .navbar-header .sticky .navbar-brand {
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #685F98 !important;
+  color: #F29629 !important;
 }
 body .navbar-header .sticky .navbar-nav li.active a {
-  color: #685F98 !important;
+  color: #F29629 !important;
 }
 body .header-page .navbar-brand {
   padding-top: 10px;
@@ -22841,7 +22841,7 @@ body .header-page .navbar-nav a:hover {
   color: #ffffff;
 }
 body .header-page.sticky .navbar-brand span {
-  color: #685F98 !important;
+  color: #F29629 !important;
 }
 body .header-page.sticky .navbar-nav li a {
   color: #1B1344 !important;
@@ -22855,7 +22855,7 @@ body .hero:after {
   position: absolute;
   width: 35%;
   height: 100%;
-  background-color: #685F98;
+  background-color: #F29629;
   top: 0;
   z-index: -9;
   right: 0;
@@ -22903,13 +22903,13 @@ body .bg-color-3 {
   background-color: #FDD0D2;
 }
 body .bg-color-4 {
-  background-color: #685F98;
+  background-color: #F29629;
 }
 body .bg-color-5 {
   background-color: #FD907E;
 }
 body .bg-color-6 {
-  background-color: #685F98;
+  background-color: #F29629;
 }
 body .bg-color-7 {
   background-color: #F5E6FE;
@@ -23049,13 +23049,13 @@ body .shape-overlays.is-opened {
   pointer-events: auto;
 }
 body .shape-overlays__path:nth-of-type(1) {
-  fill: #685F98;
+  fill: #F29629;
 }
 body .shape-overlays__path:nth-of-type(2) {
   fill: #1B1344;
 }
 body .shape-overlays__path:nth-of-type(3) {
-  fill: #685F98;
+  fill: #F29629;
 }
 @-webkit-keyframes intervalHamburgerBorder {
   0% {
@@ -23308,7 +23308,7 @@ body .sqare_1 {
   width: 350px;
   height: 400px;
   border-radius: 10px;
-  background-color: #685F98;
+  background-color: #F29629;
   opacity: 0.3;
 }
 body .float_anim {
@@ -23490,7 +23490,7 @@ body #video_block:after {
   position: absolute;
   width: 45%;
   height: 480px;
-  background-color: #685F98;
+  background-color: #F29629;
   top: 16%;
   z-index: -9;
   right: -25px;
@@ -23560,8 +23560,8 @@ body #testmonials .testmonial-slider .slick-list .item-slider .content-testmonia
   font-weight: 500;
 }
 body #testmonials .testmonial-slider .slick-arrow {
-  background-color: #685F98;
-  border: 1px solid #685F98;
+  background-color: #F29629;
+  border: 1px solid #F29629;
   display: inline-block;
   line-height: 50px;
   width: 50px;
@@ -23570,7 +23570,7 @@ body #testmonials .testmonial-slider .slick-arrow {
   padding: 0;
   font-size: 20px;
   outline: none;
-  color: #685F98;
+  color: #F29629;
 }
 body #testmonials .testmonial-slider .slick-arrow img {
   width: 10px;
@@ -23608,7 +23608,7 @@ body footer .footer-top .logo-footer {
 body footer .footer-top .logo-footer span {
   font-size: 24px;
   font-weight: 600;
-  color: #685F98;
+  color: #F29629;
   padding-top: 30px;
 }
 body footer .footer-top .text-footer p {
@@ -23648,7 +23648,7 @@ body footer .copyright p {
 }
 body .section-title {
   position: relative;
-  background-color: #685F98;
+  background-color: #F29629;
   padding-bottom: 80px;
   padding-top: 200px;
 }
@@ -23832,9 +23832,9 @@ body #about-features-1 .img-right {
   padding: 0 0 30px;
 }
 #pricing .price-slider .price-silder-item .p-table .p-table-bottom .p-button {
-  background-color: #685F98;
+  background-color: #F29629;
   color: #ffffff;
-  border: 2px solid #685F98;
+  border: 2px solid #F29629;
   padding: 10px 35px;
   border-radius: 23px;
   -webkit-transition: all 0.3s ease;
@@ -23846,8 +23846,8 @@ body #about-features-1 .img-right {
 }
 #pricing .price-slider .price-silder-item .p-table .p-table-bottom .p-button:hover {
   background-color: transparent;
-  color: #685F98;
-  border: 2px solid #685F98;
+  color: #F29629;
+  border: 2px solid #F29629;
 }
 #pricing .price-slider .slick-arrow {
   border: none;
@@ -23914,7 +23914,7 @@ body #about-features-1 .img-right {
 .blog-summary p a {
   margin-top: 10px;
   display: block;
-  color: #685F98;
+  color: #F29629;
 }
 
 .blog-meta {
@@ -24257,7 +24257,7 @@ body #about-features-1 .img-right {
   left: 0;
   display: block;
   border-radius: 10px;
-  background-color: #685F98;
+  background-color: #F29629;
   opacity: 0.3;
 }
 .single-blog .single-blog-info {
@@ -24315,7 +24315,7 @@ body #about-features-1 .img-right {
 }
 .blog-single-post blockquote i {
   font-size: 28px;
-  color: #685F98;
+  color: #F29629;
 }
 .blog-single-post blockquote p {
   font-size: 22px;
@@ -24545,7 +24545,7 @@ body #about-features-1 .img-right {
 
 .bg-cta {
   position: relative;
-  background-color: #685F98;
+  background-color: #F29629;
 }
 .bg-cta .shapes_about .sqare_2 {
   bottom: 300px;
@@ -24590,7 +24590,7 @@ body #about-features-1 .img-right {
   top: 5px;
   padding: 7px 25px;
   border-radius: 23px;
-  background-color: #685F98;
+  background-color: #F29629;
   color: #ffffff;
 }
 
