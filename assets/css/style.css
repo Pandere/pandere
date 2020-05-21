@@ -23517,6 +23517,11 @@ body .bg-box {
 body .bg-box .padd-box {
   padding-left: 100px;
 }
+
+body .bg-box .padd-box-zero {
+  padding-left: 0px !important;
+}
+
 body .bg-box .padd-box .number-block {
   margin-bottom: 50px;
 }
@@ -23657,7 +23662,7 @@ body footer .copyright {
   text-align: center;
 }
 body footer .copyright p {
-  font-size: 13px;
+  font-size: 11px;
 }
 body .section-title {
   position: relative;
