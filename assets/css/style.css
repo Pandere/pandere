@@ -23,6 +23,9 @@ Table of content
  */
 :root {
   --basic: #F29629;
+  --babyvote: #FF90C6;
+  --petvote: #4CB4EB;
+  --melobeem: #3ECCA2;
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -22894,14 +22897,14 @@ body p {
   color: #8F8F8F;
   line-height: 26px;
 }
-body .bg-color-1 {
-  background-color: #FFBB58;
+body .bg-color-bv {
+  background-color: var(--babyvote);
 }
-body .bg-color-2 {
-  background-color: #F7E698;
+body .bg-color-pv {
+  background-color: var(--petvote);
 }
-body .bg-color-3 {
-  background-color: #FDD0D2;
+body .bg-color-mb {
+  background-color: var(--melobeem);
 }
 body .bg-color-4 {
   background-color: var(--basic);
@@ -23380,8 +23383,8 @@ body #about .icon-block .icon-block-img {
   text-align: center;
 }
 body #about .icon-block .icon-block-img img {
-  widows: 40px;
-  height: 40px;
+  widows: 58px;
+  height: 58px;
 }
 body #about .icon-block .icon-block-info {
   margin-top: 20px;
