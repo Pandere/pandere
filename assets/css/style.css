@@ -23389,6 +23389,12 @@ body #about .icon-block .icon-block-img img {
 body #about .icon-block .icon-block-info {
   margin-top: 20px;
 }
+body #about .icon-block .icon-block-info a {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 500;
+  color: #1B1344;
+}
 body #about .icon-block .icon-block-info h3 {
   font-size: 18px;
   line-height: 25px;
