@@ -172,6 +172,7 @@ sup {
 }
 
 a {
+  pointer-events: all;
   color: #007bff;
   text-decoration: none;
   background-color: transparent;
