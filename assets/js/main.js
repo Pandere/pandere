@@ -1,14 +1,13 @@
+/* ---------------------------------------------
+  page  Prealoader
+ --------------------------------------------- */
+$(window).on('load', function () {
+  $("#loading-center-page").fadeOut();
+  $("#loading-page").delay(400).fadeOut("slow");
+});
+
 $(document).ready(function ($) {
   'use strict';
-
-
-/* ---------------------------------------------
-     page  Prealoader
-     --------------------------------------------- */
-     $(window).on('load', function () {
-      $("#loading-center-page").fadeOut();
-      $("#loading-page").delay(400).fadeOut("slow");
-    });
 
  /* ---------------------------------------------
   Accordion
@@ -24,7 +23,7 @@ $(".collapse").on('show.bs.collapse', function(){
   $(this).parent().find(".icon-accordion").removeClass("fas fa-angle-down").addClass("fas fa-angle-up");
 });
 
- 
+
  /* ---------------------------------------------
      Sticky header
      --------------------------------------------- */
@@ -36,13 +35,13 @@ $(".collapse").on('show.bs.collapse', function(){
 
       }
       else{
-        $('.navbar').removeClass('sticky');  
+        $('.navbar').removeClass('sticky');
       }
 
     });
 
 
- 
+
 
 /*--------------------
 Slick  JS
@@ -60,15 +59,15 @@ $('.testmonial-slider').slick({
   margin:20,
   slidesToShow: 1,
   slidesToScroll: 1,
- 
-}); 
- 
-  
+
+});
+
+
 $('.price-slider').slick({
   dots: false,
   arrows: true,
   infinite: true,
-  autoplay: true, 
+  autoplay: true,
   margin:15,
   padding:0,
   slidesToShow: 2,
@@ -84,7 +83,7 @@ $('.price-slider').slick({
      slidesToShow: 1,
      slidesToScroll: 1,
      infinite: true,
-     
+
    }
  },
  {
@@ -103,8 +102,8 @@ $('.price-slider').slick({
  }
  ]
  });
- 
- 
+
+
 
 /*----------------------------------------------------*/
 /*  VIDEO POP PUP
@@ -124,7 +123,7 @@ $('.video-modal').magnificPopup({
     }
   }
 });
- 
+
 /*--------------------
 VenoBox
 ----------------------*/
@@ -133,10 +132,10 @@ $('.modal-venobox').venobox({
   numeratio: true,            // default: false
   infinigall: true,
   titleattr: 'data-title',    // default: 'title'// default: false
-});	
+});
 
 
- 
+
 
 /* ---------------------------------------------
  Back top page scroll up
@@ -168,11 +167,11 @@ $('.modal-venobox').venobox({
     location.hostname == this.hostname) {
     var target = $(this.hash);
   target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
- 
+
   if (target.length) {
 
- 
- 
+
+
             // Only prevent default if animation is actually gonna happen
             event.preventDefault();
             $('html,body').animate({
@@ -204,7 +203,7 @@ $('.modal-venobox').venobox({
   }
 }
 
- 
+
 
 /*--------------------
 MAGNIFIC POPUP IMAGE  JS
@@ -228,6 +227,4 @@ $('.modal-image').magnificPopup({
       }
   }
 });
-
- 
 });
