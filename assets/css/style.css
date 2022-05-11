@@ -22909,7 +22909,7 @@ body .bg-color-pv {
   background-color: var(--petvote);
 }
 body .bg-color-mb {
-  /*background-color: var(--melobeem);*/
+  background-color: white;
 }
 body .bg-color-mb img{
   height: 80px !important;
